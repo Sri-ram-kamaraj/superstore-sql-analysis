@@ -84,6 +84,12 @@ MBA Graduate | Aspiring Data Engineer
 GitHub Project created as part of my SQL learning journey.
 
 
+## Project Screenshots
+
+### Top 3 Customers by Sales in Each Region
+
+![Top 3 Customers](screenshots/top_3_customers_by_region.png)
+
 
 
     
