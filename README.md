@@ -91,5 +91,35 @@ GitHub Project created as part of my SQL learning journey.
 ![Top 3 Customers](screenshots/top_3_customers_by_region.png)
 
 
+---
 
+# 📸 Project Screenshots
+
+## 1. Top 3 Customers by Sales in Each Region
+
+![Top 3 Customers](screenshots/top_3_customers_by_region.png)
+
+---
+
+## 2. JOIN Example
+
+![JOIN Example](screenshots/joins_example.png)
+
+---
+
+## 3. CTE Example
+
+![CTE Example](screenshots/cte_regional_sales.png)
+
+---
+
+## 4. Sales by Category
+
+![Sales by Category](screenshots/sales_by_category.png)
+
+---
+
+## 5. Top Customers by Sales
+
+![Top Customers](screenshots/top_customers_by_sales.png)
     
